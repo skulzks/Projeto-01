@@ -1,0 +1,74 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+    text-align: center;
+    margin: 0;
+
+    background-image: url(./Arquivos/fundo\ preto.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+#info{
+    width: 592px;
+    margin: 0 auto 72px;
+}
+
+#info img{
+    margin-bottom: 40px;
+    margin-top: 40px ;
+}
+
+h1 {
+    font-family: "roboto slab", serif;
+    font-size: 50px;
+    line-height: 58px;
+    font-weight: normal;
+    color: #f3f1f8;
+    margin-bottom: 32px;
+}
+
+h1 span {
+    font-weight: bold;
+    color: #C64132;
+}
+
+span, a{
+    color:  #C64132;
+    font-weight: bold;
+}
+a{font-weight: bold;
+color:#C64132;}
+P {
+    color: #f3f1f8;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 100px;
+
+}
+.logo{
+    position: fixed;
+    right: 12px;
+    bottom: 12px;
+}
+#footer a + a{
+    margin-left: 28px;
+}
+.line{
+    width: 592px;
+    border: 1px #7D7987 double;  
+    margin: 1em auto 1em;
+    border: 1px #7D7987 double;
+    
+}
+header{
+    background-color: rgba(0,0,0,0.5
+    );
+}.logo1{
+    position: fixed;    
+    right: auto;
+    box-sizing: content-box;
+
+}
